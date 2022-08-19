@@ -1,0 +1,21 @@
+  body {
+  background-color:#FFFDE3;
+}
+  hr{
+  border-color: #CFE8A9;
+  border-top: 8px dotted #CFE8A9 ;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 30% ;
+  }
+  h1{
+    color: #C21010;
+  }
+  h3{
+    color: #E64848;
+  }
+  dark red #C21010
+  faint red #E64848
+  pista cream #FFFDE3
+  pista #CFE8A9
